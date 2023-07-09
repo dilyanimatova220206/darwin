@@ -1,0 +1,13 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: rgb(128, 218, 156);
+}
+
+h1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 200px 0;
+}
